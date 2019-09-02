@@ -1,1 +1,8 @@
-{}
+{
+  "baseUrl": "http://localhost:4200",
+  "defaultCommandTimeout": 1000,
+  "blacklistHosts": ["google-analytics.com"],
+  "env": {
+    "defaultTitle": "Tour of Heroes"
+  }
+}
